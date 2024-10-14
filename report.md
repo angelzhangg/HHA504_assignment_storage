@@ -8,6 +8,8 @@ The objective of this assignment is to familiarize you with cloud storage servic
   - Navigate to the Azure portal and create a new Storage Account.
   - Create a Blob container within the Storage Account.
   - Upload a sample file (e.g., a text file or image) to the Blob container using the Azure portal.
+
+
 - **GCP Cloud Storage:**
   - Access the Google Cloud Console and create a new Cloud Storage bucket.
   - Upload a similar sample file to the bucket using the GCP Console.
