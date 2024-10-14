@@ -33,6 +33,14 @@ The objective of this assignment is to familiarize you with cloud storage servic
   - [Cancer - Imaging Archive](https://www.cancerimagingarchive.net/browse-collections/)
 - **Azure Blob Storage:**
   - Write a Python script that uploads a file to the Blob container you created. Use the `azure-storage-blob` library to handle the upload.
+
+![blob_storage](https://github.com/user-attachments/assets/f0ea2537-7e24-4c7b-8508-0b4ef47541ce)
+1. Copy code from "https://colab.research.google.com/drive/1-TiNuRFiGucvnLgTlyp4bsdtR4_TduAT?usp=sharing#scrollTo=ZKgCaehp9NqN"
+2. Storage account > Access Keys > Update account URL link
+3. Create "text" file > upload Access Key > Rename .env
+4. "pip install azure-storage-blob azure-identity python-dotenv" 
+5. Create "angela-data.txt" file
+   
 - **GCP Cloud Storage:**
   - Write a Python script that uploads a file to the GCP Cloud Storage bucket you created. Use the `google-cloud-storage` library to handle the upload.
 
