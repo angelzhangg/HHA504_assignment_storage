@@ -1,3 +1,18 @@
+#ignore secret file 
+{
+  "type": "service_account",
+  "project_id": "angela-zhang-hha504",
+  "private_key_id": "b1c36b597071efc00d9cd772f6c4c2bbdbafde74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsIhljTplFnmnI\nFrQmoi+lh53xcOnVRzSxaq3muWWOeCeUJfJbaLWSdjjeOhEDjo0sI2M4L7Q1gXDy\nwnu4HdFr1WIbwugE/qaMS9BAPnk9ynnI9Yprp3FLE6ATmsbaqgEWBXbpNhmLCAXi\n7V8Wda10Y0s7l2ZyBLnxj6Btr1HDXuI1HryPLvD7sb8xaoiU8tVgx7qk9Y3KWoiT\nQEWeN0xt4Om+EJkNiL50phUyBNgDoxhWQ2LIESZ7Tz4Td+H5Opsn2u+9Rj/bKEai\niZr25oBIoSU/y1KYD/cgOO0MUf3zZsy3ok1biO93AzICvgRLbVyqUIcUMDYQZqb3\nBGdNXefVAgMBAAECggEABF13Aa50x+QvSWseBm7OGa3BnjJ7qB0qXLM/prm7pmAT\nPzpaWhU78gqsb3M8WEf81RmMXoAHQUv0xhARUGyAsBEgQKogNuNsOcC3B1EAVcOV\n78CWP/o27m/c8C/WyDkHTxxnv9TnsPnDfhfsP5KKU9H4FJBubOIoe84vZYetp8Ji\nrPZSXhjEAE1d4TtNdqQnLeK1x5L5oES1StLpVkkIWExcaRg5doQ5X2lj4Gpao3h7\nne+noxUwuQGsO+TZPLDWp5wtKf5w8hYhItxH7Cp99aGHfqPVfDFHGF+tHEv76uTj\nXmGFih2qw3BK5uIoGGi1Ae1wynI9R/WTtvWqmaHFKwKBgQD9dx22nlll3WcfJBrR\np0YyEgOelvXEn/bXS9om9mOHFc7I8hK0wy4wwWh68mwQJkqzu3//uYzslq8+C6n8\n8sC/NONwXyTu15VVWKsCIpjDCXCNEohSqx8b+xrwSvzsEd/ZmFrrHceTLSEgTn+p\nGAY5mmQutfO10oER5TxrmW9WUwKBgQDufpywD6gydc0R0htE1XR3xR9BFEjbLlVq\nlunWIp/5C22UmmlUcbkjLA2uJwlKfX3GqzAW732cbUIF084UCHesT1gc97qiJoeX\nKu4si4apCniEs19/+QkYf3/umm58uRpIHe2zP7gWo+N58pExjycFxH9DlAIGspGn\n+Utng0C0NwKBgBmlPr1mgjcbUr7E4W3LFgAk8HbQYWeWo9we0aDVlzZoz3Znf9sI\nUJkgSJkABE0SAsbytr3CIW8iw/JsLbPpP/VYvZZ2Gf+MkpCDGzJpG7nIL7omYOK0\na75iBtS/UZ31JQgYMULOzY2nqE1jg+kxBBg59d8AC/ueo+6Smi1s5eX/AoGAcI6M\nwIMDLJ1wJSL1/6yGBSihMYOzRs49PcrvnUJGIbGFDAc8AsCRUcouwqxltCQ5whN0\n5L4umC7wY/OsZMQCRu5DdZhtGq34fB2kvp0y9oCclHRbc/hClK9H34I+9todTz/g\nuSIvbW/3ocwbPjqDfjNYpLoroqGQIKiFL9tAJE0CgYEAxohZpWaokwtAIb6qQ+r3\no8k8ZW0HH9ZHc+Lp8mW+x96h+iXmJZqb2CSBHI5iq6t7s9F3sFByWUR69uk4bDyt\nS3OmuJ2DPr8diL6xVe2LpJjBZtKWXh9e+58sZ0cAICSb/VnZceXq/liYjav/g2rE\nBLFZmACrM72cWuviJHGa/wA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-cloud-storage-access-temp@angela-zhang-hha504.iam.gserviceaccount.com",
+  "client_id": "117664085454379416758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-cloud-storage-access-temp%40angela-zhang-hha504.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
