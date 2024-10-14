@@ -39,5 +39,17 @@ The objective of this assignment is to familiarize you with cloud storage servic
 ### 3. Explore Storage Features
 - **Azure:**
   - Explore and document the options for managing and securing data in Azure Blob Storage (e.g., access policies, tiers).
+    
+![access policies](https://github.com/user-attachments/assets/652a604c-b2d1-425b-841b-bf01d71a482e)
+1. Access controls->Shows current role assigments and eligible assignments
+2. Check Access->Shows users/group access to the resouce
+
+![role assignments](https://github.com/user-attachments/assets/66aaa0df-2316-425d-a1d2-3f8617099942)
+
+3. Role Assignements-Shows the possible users and members that could be added
+
 - **GCP:**
   - Explore and document the options for managing and securing data in GCP Cloud Storage (e.g., IAM permissions, lifecycle rules).
+ 
+![permission](https://github.com/user-attachments/assets/92e7e427-ff8c-4e12-b94a-d4eee511859f)
+![lifecycle](https://github.com/user-attachments/assets/dcbd1626-c264-4979-ba1f-e26b1d3955fc)
