@@ -4,13 +4,13 @@ import io
 import os
 
 # Step 1: Set up your Google credentials
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/workspaces/HHA504_assignment_storage/secret.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'gcp_secret.json'
 
 # Step 2: Create a Google Cloud Storage client
 client = storage.Client()
 
 # Step 3: Create a bucket or use an existing one
-bucket_name = 'example_bucket_504'  # Change this to your bucket name
+bucket_name = 'ahi-storage-bucket'  # Change this to your bucket name
 bucket = client.bucket(bucket_name)
 
 
