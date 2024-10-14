@@ -6,14 +6,24 @@ The objective of this assignment is to familiarize you with cloud storage servic
 ### 1. Upload Files Using the GUI
 - **Azure Blob Storage:**
   - Navigate to the Azure portal and create a new Storage Account.
-  - Create a Blob container within the Storage Account.
+    
+![storage](https://github.com/user-attachments/assets/757046da-db21-4485-8054-5bcd12bdad17)
+![storage2](https://github.com/user-attachments/assets/584c2897-2ee9-485c-8603-1ba123e06e40)
+  - Create a Blob container within the Storage Account called test data.
+    
+![blob container](https://github.com/user-attachments/assets/67383654-eb93-49fc-a13c-84174080d8c6)
   - Upload a sample file (e.g., a text file or image) to the Blob container using the Azure portal.
 
+![upload file](https://github.com/user-attachments/assets/8cabe5bf-c88f-4585-8490-ff89d3e0b6df)
 
 - **GCP Cloud Storage:**
   - Access the Google Cloud Console and create a new Cloud Storage bucket.
+    
+![gcp storage](https://github.com/user-attachments/assets/f573ded4-249b-447d-a7ab-40a485ef4130)
   - Upload a similar sample file to the bucket using the GCP Console.
-  - Example repo of what we did during class: ['Class Repo'](https://github.com/hantswilliams/gcp-cloud-storage-demo)
+    
+![gcp storage2](https://github.com/user-attachments/assets/52d337b5-a184-45ba-a5b2-24f68f8465b0)
+
 
 ### 2. Upload Files Using Python
 - For this section, if you want to make it more realistic, I recommend finding some open source open source x-ray images and uploading them to the cloud storage. This though is not a requirement, just a suggestion. Potential sites where you can find medical images: 
