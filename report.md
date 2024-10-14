@@ -43,6 +43,16 @@ The objective of this assignment is to familiarize you with cloud storage servic
    
 - **GCP Cloud Storage:**
   - Write a Python script that uploads a file to the GCP Cloud Storage bucket you created. Use the `google-cloud-storage` library to handle the upload.
+ 
+![python_cloud](https://github.com/user-attachments/assets/c5244154-1733-4fd1-be32-f954374dac55)
+![python_cloud2](https://github.com/user-attachments/assets/1ef18c31-1aa8-413c-a4e6-fee117fb4a10)
+![python_cloud3](https://github.com/user-attachments/assets/b91a94ad-d982-447e-b108-c3457049aeef)
+
+1. Under IAM & Admin, create a service account.
+2. Rovide a name under "Service account details"
+3. Select "Compute storage admin" 
+4. Click the 3 dots under Actions for the service account.
+5. Click; Manage Keys. Add Key. Create New Key. JSON key type. Create. Download.
 
 ### 3. Explore Storage Features
 - **Azure:**
